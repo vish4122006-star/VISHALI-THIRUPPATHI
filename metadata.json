@@ -1,0 +1,5 @@
+{
+  "name": "Learnova",
+  "description": "Learnova: An AI-powered application that generates detailed course content on any topic. Users can download courses in various formats, get certificates, and track their learning streaks.",
+  "requestFramePermissions": []
+}
